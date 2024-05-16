@@ -11,7 +11,7 @@ function Home() {
         fontFamily: "sans-serif",
       }}
     >
-      <h1>Em construção...</h1>
+      <h1>Clone News - Em construção...</h1>
       <Player
         src="https://lottie.host/7d2fa5f2-f4c2-40b7-b7b5-1d3839a8bf74/H74upuCZ9Q.json"
         className="player"
